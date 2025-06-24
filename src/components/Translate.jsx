@@ -12,7 +12,7 @@ function Translate() {
         region: "us-east-1", // or your preferred AWS region
         credentials: {
             accessKeyId: import.meta.env.VITE_AWS_KEY,
-            secretAccessKey: import.meta.env.REACT_APP_AWS_SECRET,
+            secretAccessKey: import.meta.env.VITE_AWS_SECRET,
         },
     });
 
