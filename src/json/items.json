@@ -1,0 +1,40 @@
+{
+    "items" : [
+        {
+            "id" : 1,
+            "name" : "karthik",
+            "age" : 24,
+            "marital_status" : "single",
+            "qualification" : "BCA",
+            "profession" : "Associate Full Stack Developer",
+            "experience" : "2 Years 8 Months"
+        },
+        {
+            "id" : 2,
+            "name" : "kamaraj",
+            "age" : 26,
+            "marital_status" : "single",
+            "qualification" : "BCA",
+            "profession" : "Junior Full Stack Developer",
+            "experience" : "2 Years 3 Months"
+        },
+        {
+            "id" : 3,
+            "name" : "Thamizh Arasan",
+            "age" : 24,
+            "marital_status" : "single",
+            "qualification" : "B.E",
+            "profession" : "Junior Full Stack Developer",
+            "experience" : "2 Years 3 Months"
+        },
+        {
+            "id" : 4,
+            "name" : "Sathish",
+            "age" : 27,
+            "marital_status" : "single",
+            "qualification" : "B.E",
+            "profession" : "Senior Full Stack Developer",
+            "experience" : "4 Years 5 Months"
+        }
+    ]
+}
